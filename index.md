@@ -29,4 +29,4 @@ Nick, with a BS in Glass engineering Science from Alfred University.
 
 Email: ntcantafio(at)gmail(dot)com
 
-Resume: [Cantafio Resume](https://drive.google.com/file/d/1bBcqprb2qvcY8-5rIfQ8H5Vtihzru6f4iIa5cJg25fshzdc0wmBsYGF9_FKBhQuVLERuhqaedhuxxyJY/view?usp=sharing)
+Resume: [Cantafio Resume](https://drive.google.com/file/d/1LgdjPxizUd8LePQFzG2nGnOgd8F1AvwfTMOea6id90SEsMc8Xg1nqn1mRmMxI9xPZhiCk0kxOhAORx86/view?usp=sharing)
