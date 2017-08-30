@@ -17,9 +17,9 @@ Nick, with a BS in Glass engineering Science from Alfred University.
  - Tech reviews
  - Business reviews
  - Books
-   - American Gods
-   - GoT
-   - Wool
+   - American Gods by Neil Gaiman
+   - Game of Thrones by J.R.R. Tolkien
+   - Wool by Hugh Howey
 
 ## Online Profiles: 
 
