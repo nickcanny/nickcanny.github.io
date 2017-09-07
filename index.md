@@ -1,12 +1,13 @@
 # Welcome to my website. 
 
-Nick, with a BS in Glass engineering Science from Alfred University.
+I'm Nick, I have a BS in Glass engineering Science from Alfred University.
 
-### Language interests include
+### Language interests include 
  - Python
  - Julia
  - R
- - F# (interested in learning but have not attempted to learn just yet)
+ - J (interested in learning but have not attempted to learn just yet)
+ - C++ (slowly learning in my free time) 
  - Italian (a work in progress)
  
 ### Interesting Tech
@@ -14,12 +15,18 @@ Nick, with a BS in Glass engineering Science from Alfred University.
  - DDD printing
  
 ### Good Reads
- - Tech reviews
- - Business reviews
+ - Business/Tech News
+   - [Stanford Business] (https://www.gsb.stanford.edu/insights/about/magazine)
+   - [MIT Tech review] (https://www.technologyreview.com/)
+   - [Sloan Management Review] (https://sloanreview.mit.edu/)
+   - [Wired] (https://www.wired.com/)
+   - [Ars Technica] (https://arstechnica.com/)
  - Books
    - American Gods by Neil Gaiman
    - Game of Thrones by J.R.R. Tolkien
    - Wool by Hugh Howey
+   
+### Blog space: ... (soon to come)
 
 ## Online Profiles: 
 
