@@ -27,6 +27,7 @@ I'm Nick, I have a BS in Glass engineering Science from Alfred University.
    - Wool by Hugh Howey
    
 ### Blog space: ... (soon to come)
+   [The start ](nickcanny.github.io/6_9_17_Japan.md)
 
 ## Online Profiles: 
 
