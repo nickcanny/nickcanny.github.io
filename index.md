@@ -16,11 +16,11 @@ I'm Nick, I have a BS in Glass engineering Science from Alfred University.
  
 ### Good Reads
  - Business/Tech News
-   - [Stanford Business] (https://www.gsb.stanford.edu/insights/about/magazine)
-   - [MIT Tech review] (https://www.technologyreview.com/)
-   - [Sloan Management Review] (https://sloanreview.mit.edu/)
-   - [Wired] (https://www.wired.com/)
-   - [Ars Technica] (https://arstechnica.com/)
+   - [Stanford Business](https://www.gsb.stanford.edu/insights/about/magazine)
+   - [MIT Tech review](https://www.technologyreview.com/)
+   - [Sloan Management Review](https://sloanreview.mit.edu/)
+   - [Wired](https://www.wired.com/)
+   - [Ars Technica](https://arstechnica.com/)
  - Books
    - American Gods by Neil Gaiman
    - Game of Thrones by J.R.R. Tolkien
