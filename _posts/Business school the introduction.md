@@ -1,0 +1,1 @@
+Starting to look at business schools is like trying to find the best place to eat in foregin place. Doing dudiligence is a must and you hope that there is no line so that you get to get in and have a life changing experience, okay so you may not have a life changing experience in a either place but hopefully you learn something from the experience. 
