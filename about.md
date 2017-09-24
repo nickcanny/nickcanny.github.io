@@ -1,6 +1,6 @@
 ## Welcome to my website. 
 
-I'm Nick, I have a BS in Glass engineering Science from Alfred University.
+I'm Nick, I have a BS in Glass Engineering Science from Alfred University.
 
 ### Language interests include 
  - Python
@@ -25,8 +25,6 @@ I'm Nick, I have a BS in Glass engineering Science from Alfred University.
    - American Gods by Neil Gaiman
    - Game of Thrones by J.R.R. Tolkien
    - Wool by Hugh Howey
-   
-### Blog space: ... (soon to come)
  
 ### Online Profiles: 
 
