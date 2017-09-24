@@ -1,6 +1,6 @@
 
 # SEO settings
-title: "Nicks"
+title: "Nicks_"
 title2: "Blogspace" # default: ""
 description: "Trying to be a miniamalist a technical writer."
 keywords: "Jekyll, theme, free, download, SEO, blog, web, minimalist, thinkspace, GES, Alfred, Alfred Univeristy, Nick"
@@ -30,10 +30,10 @@ sass:
 # Author settings
 author:
   name     : "Nick Cantafio"
-  job      : "Glass Science Engineer"
-  bio      : "Materials scientist and manufacturing engineer."
+  job      : "Manufacturing Engineer"
+  bio      : "Glass engineer working in manufacturing with a interest in coding and travel."
   thumb    : /images/author.jpg
-  email    : hnrird@gmail.com
+  email    : ntcnatafio@gmail.com
   url      : http://nickcanny.github.io
   github   : http://github.com/nickcanny
   #twitter  : http://twitter.com/HeiswayiNrird
