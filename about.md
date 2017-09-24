@@ -32,7 +32,7 @@ I'm Nick, I have a BS in Glass engineering Science from Alfred University.
 
 [LinkedIn](https://www.linkedin.com/in/ntcantafio/)
 
-[GitHub (Where you are now.)](https://nickcanny.github.io/)
+[GitHub](https://github.com/nickcanny)
 
 Email: ntcantafio(at)gmail(dot)com
 
