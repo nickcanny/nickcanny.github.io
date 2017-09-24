@@ -1,14 +1,14 @@
 
 # SEO settings
-title: "Nick"
+title: "Nicks"
 title2: "Blogspace" # default: ""
-description: "Trying to be a miniamalist and atemp to be a technical writer."
+description: "Trying to be a miniamalist a technical writer."
 keywords: "Jekyll, theme, free, download, SEO, blog, web, minimalist, thinkspace, GES, Alfred, Alfred Univeristy, Nick"
 url: http://nickcanny.github.io # site url
 baseurl: "" # apply repo name if use it under gh-pages branch
 # baseurl: null # apply null if repo name is something like username.github.io
 
-google_analytics: UA-XXXXX-XX
+#google_analytics: UA-XXXXX-XX
 repo: https://nickcanny.github.io/
 #disqus_shortname: "hnbloggithub"
 #twitter_username: "HeiswayiNrird"
@@ -31,7 +31,7 @@ sass:
 author:
   name     : "Nick Cantafio"
   job      : "Glass Science Engineer"
-  bio      : "Materioals scient."
+  bio      : "Materials scientist and manufacturing engineer."
   thumb    : /images/author.jpg
   email    : hnrird@gmail.com
   url      : http://nickcanny.github.io
