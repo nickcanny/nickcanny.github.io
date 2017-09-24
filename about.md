@@ -1,3 +1,9 @@
+---
+layout: page
+title: About le me
+permalink: /about/
+---
+
 ## Welcome to my website. 
 
 I'm Nick, I have a BS in Glass Engineering Science from Alfred University.
