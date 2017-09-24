@@ -1,4 +1,4 @@
- Welcome to my website. 
+##Welcome to my website. 
 
 I'm Nick, I have a BS in Glass engineering Science from Alfred University.
 
@@ -28,7 +28,7 @@ I'm Nick, I have a BS in Glass engineering Science from Alfred University.
    
 ### Blog space: ... (soon to come)
  
-## Online Profiles: 
+### Online Profiles: 
 
 [LinkedIn](https://www.linkedin.com/in/ntcantafio/)
 
