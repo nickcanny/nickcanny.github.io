@@ -22,11 +22,13 @@ I'm Nick, I have a BS in Glass Engineering Science from Alfred University.
  
 ### Good Reads
  - Business/Tech News
+   - [hacker news](http://hckrnews.com/)
    - [Stanford Business](https://www.gsb.stanford.edu/insights/about/magazine)
    - [MIT Tech review](https://www.technologyreview.com/)
    - [Sloan Management Review](https://sloanreview.mit.edu/)
    - [Wired](https://www.wired.com/)
    - [Ars Technica](https://arstechnica.com/)
+   - [knowledge@wharton](http://knowledge.wharton.upenn.edu/)
  - Books
    - American Gods by Neil Gaiman
    - Game of Thrones by J.R.R. Tolkien
