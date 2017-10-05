@@ -34,7 +34,7 @@ I'm Nick, I have a BS in Glass Engineering Science from Alfred University.
    - Game of Thrones by J.R.R. Tolkien
    - Wool by Hugh Howey
  - Technical Jounals
-   -[arxiv](https://arxiv.org/)
+   - [arxiv](https://arxiv.org/)
  
 ### Online Profiles: 
 
