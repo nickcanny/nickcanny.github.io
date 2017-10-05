@@ -2,7 +2,7 @@
 # SEO settings
 title: "Nicks_"
 title2: "Blogspace" # default: ""
-description: "Trying to be a miniamalist a technical writer."
+description: "Trying to be a miniamalist technical writer and/or ranter."
 keywords: "Jekyll, theme, free, download, SEO, blog, web, minimalist, thinkspace, GES, Alfred, Alfred Univeristy, Nick"
 url: http://nickcanny.github.io # site url
 baseurl: "" # apply repo name if use it under gh-pages branch
