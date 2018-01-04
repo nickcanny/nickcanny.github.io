@@ -3,7 +3,7 @@ layout: post
 title: "Apple Cider"
 comments: true
 description: "To the core"
-keywords: "Core",'Apple','Hard Cider','Old fashioned'
+keywords: "Core", "Apple", "Hard Cider", "Old fashioned"
 ---
 
 ## Two Blends, Two Batches, One Brewer
