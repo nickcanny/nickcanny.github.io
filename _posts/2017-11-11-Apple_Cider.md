@@ -6,8 +6,7 @@ description: "All the way to the core"
 keywords: "Core",'Apple','Hard Cider','Old fashioned'
 ---
 
-
-# Two Blends, Two Batches, One Brewer
+## Two Blends, Two Batches, One Brewer
 
 First Blend, 2017 Yahoo Blend:
 40% Winesap
