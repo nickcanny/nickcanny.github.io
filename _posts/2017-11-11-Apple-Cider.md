@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Apple_Cider"
+title: "Apple Cider"
 comments: true
 description: "To the core"
 keywords: "Core",'Apple','Hard Cider','Old fashioned'
