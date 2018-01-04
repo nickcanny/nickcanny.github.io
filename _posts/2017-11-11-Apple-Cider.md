@@ -9,25 +9,25 @@ keywords: "Core",'Apple','Hard Cider','Old fashioned'
 ## Two Blends, Two Batches, One Brewer
 
 First Blend, 2017 Yahoo Blend:
-40% Winesap
-25% Mutsu
-15% Granny Smith
-10% Macoun
-5%h Winter Banana Apple
-5% McIntosh
-2 bushels Quince
-1 bushel Aronia Berries
+- 40% Winesap
+- 25% Mutsu
+- 15% Granny Smith
+- 10% Macoun
+- 5% Winter Banana Apple
+- 5% McIntosh
+- 2 bushels Quince
+- 1 bushel Aronia Berries
 
 Bought: November 5th, 2017
 - 18.927 Liters (5 Gallons)
 
 Second Blend, Hard Cider Blend (no proportions given):
-Winesaps
-Granny Smith 
-Yellow Delicious
-Qumces
-Mutzu
-Macoun
+- Winesaps
+- Granny Smith 
+- Yellow Delicious
+- Qumces
+- Mutzu
+- Macoun
 
 Bought: November 11th, 2017 along with some delicious cider doughnuts.
 
