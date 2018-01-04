@@ -2,7 +2,7 @@
 layout: post
 title: "Apple_Cider"
 comments: true
-description: "All the way to the core"
+description: "To the core"
 keywords: "Core",'Apple','Hard Cider','Old fashioned'
 ---
 
