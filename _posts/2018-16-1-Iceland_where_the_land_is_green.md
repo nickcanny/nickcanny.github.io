@@ -6,7 +6,7 @@ description: "Drive and drive some more."
 keywords: "Iceland, travel, plane, car, music"
 ---
 
-# Iceland, the land of barren yanders.
+# Iceland, the land of barren yonders.
 
 1 car
 2 cousins
